@@ -62,6 +62,7 @@ Digite sua pergunta: O que é IA? Responda Sucintamente Inteligência Artificial
 Digite sua pergunta: Quando foi lançado o chat GPT? O ChatGPT foi lançado em 30 de novembro de 2022.
 
 Digite sua pergunta: fim
+
 ---
 
 ## 📚 Bibliotecas Utilizadas
